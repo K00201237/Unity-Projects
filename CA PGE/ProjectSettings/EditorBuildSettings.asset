@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hard.unity
     guid: c5fbe0d4a077bfc41b6ca9b579fa3f73
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: 845802e44465c4e42ac4c60f021385b5
+  - enabled: 1
+    path: Assets/Scenes/TimesUp.unity
+    guid: a68918b93f0da5446ad42dc4a4ecbf26
   m_configObjects: {}
